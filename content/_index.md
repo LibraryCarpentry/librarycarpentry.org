@@ -10,6 +10,8 @@ blocks:
       url: https://amy.carpentries.org/forms/workshop/
     - copy: See the curriculum
       url: /lessons/
+    - copy: Donate to The Carpentries
+      url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=librarycarpentry"
 - layout: hero
   title: Library Carpentry is a lesson program within The Carpentries teaching software and data skills for people working in library- and information-related roles.
   image: /images/hero-background.jpg
