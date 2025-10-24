@@ -154,8 +154,8 @@ curricula:
   ref: https://librarycarpentry.github.io/lc-wikidata/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-wikidata/instructor/instructor-notes.html
   maintainers: Rabea Müller, Shelby Watson
-  status: Conceptual
-  category: conceptual
+  status: Alpha
+  category: extended
 
 - lessonname: FAIR Data & Software
   site: https://librarycarpentry.github.io/lc-fair-research/
