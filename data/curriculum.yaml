@@ -148,15 +148,6 @@ curricula:
   status: Retired
   category: retired
 
-- lessonname: Wikidata
-  site: https://librarycarpentry.github.io/lc-wikidata/
-  repo: https://github.com/LibraryCarpentry/lc-wikidata
-  ref: https://librarycarpentry.github.io/lc-wikidata/reference.html
-  inst_notes: https://librarycarpentry.github.io/lc-wikidata/instructor/instructor-notes.html
-  maintainers: Rabea Müller, Shelby Watson
-  status: Conceptual
-  category: conceptual
-
 - lessonname: FAIR Data & Software
   site: https://librarycarpentry.github.io/lc-fair-research/
   repo: https://github.com/LibraryCarpentry/lc-fair-research
