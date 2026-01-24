@@ -94,10 +94,10 @@ curricula:
 
 
 - lessonname: Intro to AI for GLAM
-  site: https://carpentries-incubator.github.io/machine-learning-librarians-archivists/
-  repo: https://github.com/carpentries-incubator/machine-learning-librarians-archivists
-  ref: https://carpentries-incubator.github.io/machine-learning-librarians-archivists/reference.html
-  inst_notes: https://carpentries-incubator.github.io/machine-learning-librarians-archivists/guide/index.html
+  site: https://librarycarpentry.github.io/lc-machine-learning/
+  repo: https://github.com/LibraryCarpentry/lc-machine-learning
+  ref: https://librarycarpentry.github.io/lc-machine-learning/reference.html
+  inst_notes: https://librarycarpentry.github.io/lc-machine-learning/instructor/instructor-notes.html
   maintainers: Mark Bell, Nora McGregor, Daniel van Strien, Mike Trizna
   status: Beta
   category: extended
