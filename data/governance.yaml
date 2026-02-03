@@ -1,11 +1,5 @@
 people:
 
-- person_name: Ekatarina (Eka) Grguric
-  position: 
-  github: egrguric
-  country: CA
-  twitter: egrguric
-
 - person_name: Tim Dennis
   position: Co-Chair
   github: jt14den
@@ -13,6 +7,19 @@ people:
   twitter: jt14den
   bluesky: timdennis.bsky.social
   url: https://tim-dennis.com 
+
+- person_name: Nicky Garland
+  position:
+  github: 	nickyjgarland
+  country:  GB
+  bluesky: nickyjgarland.bsky.social  
+  url: https://nickyjgarland.github.io/aboutme/ 
+  
+- person_name: Ekatarina (Eka) Grguric
+  position: 
+  github: egrguric
+  country: CA
+  twitter: egrguric
 
 - person_name: Cody Hennesy
   position: Co-Chair
@@ -34,11 +41,4 @@ people:
   github: jas58
   country: US 
   twitter: JenniferRPL 
-
-- person_name: Nicky Garland
-  position:
-  github: 	nickyjgarland
-  country:  GB
-  bluesky: nickyjgarland.bsky.social  
-  url: https://nickyjgarland.github.io/aboutme/ 
 
