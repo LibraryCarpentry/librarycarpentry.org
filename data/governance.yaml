@@ -1,33 +1,44 @@
 people:
 
-- person_name: Yared Abera Ergu
-  position: 
-  github: Jaredabera
-  country: ET
-  twitter: kechure
-  linkedin: yared-abera-72528257
+- person_name: Tim Dennis
+  position: Co-Chair
+  github: jt14den
+  country: US
+  twitter: jt14den
+  bluesky: timdennis.bsky.social
+  url: https://tim-dennis.com 
 
+- person_name: Nicky Garland
+  position:
+  github: 	nickyjgarland
+  country:  GB
+  bluesky: nickyjgarland.bsky.social  
+  url: https://nickyjgarland.github.io/aboutme/ 
+  
 - person_name: Ekatarina (Eka) Grguric
-  position: Chair
+  position: 
   github: egrguric
   country: CA
   twitter: egrguric
- 
-- person_name: Elizabeth (Lisa) McAulay
-  position: Secretary
-  github: emcaulay
+
+- person_name: Cody Hennesy
+  position: Co-Chair
+  github: chennesy
+  country: US 
+
+- person_name: Nathaniel Porter
+  position:
+  github:	ndporter
   country: US
-  linkedin: elizabeth-mcaulay-6158205 
 
-- person_name: Mary Filsell
+- person_name: Lebogang Seleka
   position:
-  github: Fillstar
-  country: UA 
-  twitter: MaryFilsell
-  linkedin: maryfilsell
+  github: lebseleka-ops
+  country: BW
 
-- person_name: Belinda Weaver
+- person_name: Jennifer Stubbs
   position:
-  github: weaverbel
-  country: AU
+  github: jas58
+  country: US 
+  twitter: JenniferRPL 
 
