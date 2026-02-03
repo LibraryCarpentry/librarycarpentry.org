@@ -1,13 +1,13 @@
 people:
 
 - person_name: Ekatarina (Eka) Grguric
-  position: Chair
+  position: 
   github: egrguric
   country: CA
   twitter: egrguric
 
 - person_name: Tim Dennis
-  position:
+  position: Co-Chair
   github: jt14den
   country: US
   twitter: jt14den
@@ -15,7 +15,7 @@ people:
   url: https://tim-dennis.com 
 
 - person_name: Cody Hennesy
-  position:
+  position: Co-Chair
   github: chennesy
   country: US 
 
