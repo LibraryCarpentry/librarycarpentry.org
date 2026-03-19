@@ -70,7 +70,7 @@ curricula:
   ref: https://librarycarpentry.github.io/lc-data-intro-archives/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-data-intro-archives/instructor/instructor-notes.html
   maintainers: Katherine Koziar, Senn Oon
-  status: Alpha
+  status: Beta
   category: extended
 
 - lessonname: Introduction to R
@@ -79,7 +79,7 @@ curricula:
   ref: https://librarycarpentry.github.io/lc-r/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-r/instructor/instructor-notes.html
   maintainers: Jia Qi Beh, Tim Dennis, Nicky Garland
-  status: Alpha
+  status: Beta
   category: extended
 
 
@@ -89,7 +89,7 @@ curricula:
   ref: https://librarycarpentry.github.io/lc-marcedit/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-marcedit/instructor/instructor-notes.html
   maintainers: Jennifer Eustis*, Abigail Sparling, Owen Stephens (looking for Maintainers)
-  status: Alpha
+  status: Beta
   category: extended
 
 
