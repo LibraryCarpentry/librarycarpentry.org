@@ -14,7 +14,7 @@ curricula:
   repo: https://github.com/librarycarpentry/lc-data-intro/
   ref: https://librarycarpentry.github.io/lc-data-intro/reference.html
   inst_notes: https://librarycarpentry.github.io/lc-data-intro/instructor/instructor-notes.html
-  maintainers: Freddy Chia, Kevin French
+  maintainers: Freddy Chia
   status: Stable
   category: core
 
