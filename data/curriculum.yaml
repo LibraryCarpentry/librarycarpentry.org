@@ -102,7 +102,7 @@ curricula:
   status: Beta
   category: extended
 
-- lessonname: Open Qualitative Research
+- lessonname: Open Qualitative Research with Taguette
   site: https://librarycarpentry.github.io/lc-qualitative-taguette/
   repo: https://github.com/LibraryCarpentry/lc-qualitative-taguette
   ref: https://librarycarpentry.github.io/lc-qualitative-taguette/reference.html
