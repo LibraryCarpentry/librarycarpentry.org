@@ -1,7 +1,7 @@
 logo: lc_logo.svg
 logoAlt: Library Carpentry Logo
-logoFooter: lc_logo.svg
-logoFooterAlt: Library Carpentry Logo
+logoFooter: carpentries-logo-footer.svg
+logoFooterAlt: The Carpentries
 
 git_repo: https://github.com/LibraryCarpentry/librarycarpentry.org
 
